@@ -1,6 +1,6 @@
 # React Native Movie App
 
-This is a React Native application that allows users to search for movies, view movie details, and manage their favorite movies. The application uses Redux for state management and Redux Saga for handling asynchronous operations.
+This is a React Native application that allows users to search for movies and manage their favorite movies. The application uses Redux for state management and Redux Saga for handling asynchronous operations.
 
 ## Table of Contents
 
@@ -20,7 +20,7 @@ To get started with this project, follow these steps:
 1. **Clone the repository:**
 
 ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/HunainHumail/MovieApp.git
    cd your-repo-name
 ```
 2. **Install dependencies:**
